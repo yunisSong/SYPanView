@@ -52,3 +52,6 @@ CAShapeLayer *perLayer = self.layerViewsArray[self.index];
 perLayer.strokeColor = self.hightColor.CGColor;;
 [self.layerHeightViewsArray addObject:perLayer];
 ```
+### 3,加个动画怎么了？
+![demo](/demo.gif)
+
